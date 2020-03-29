@@ -1,2 +1,6 @@
-# LearnPython
-重新学习一下Python基础
+# LearnPython  
+2020-03-29  
+重新学习一下Python基础  
+会包含基本类型、常见的一些操作  
+目的是为了重新熟练起来Pyhton的操作  
+细细想来距离上一次写Python，已经有一段日子了  
