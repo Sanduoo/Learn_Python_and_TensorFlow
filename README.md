@@ -28,6 +28,12 @@ tuple的陷阱：当你定义一个tuple时，在定义的时候，tuple的元�
 ****
 目录  
 ****  
-1.[常用数据类型](https://github.com/Sanduoo/LearnPython/tree/master/variable)  
-2.[函数](https://github.com/Sanduoo/LearnPython/tree/master/def)
-
+1.[变量与数据类型VariableAndDatetype](https://github.com/Sanduoo/LearnPython/tree/master/variable)  
+2.[函数Function](https://github.com/Sanduoo/LearnPython/tree/master/def)
+3.[解包Unpacking](https://github.com/Sanduoo/LearnPython/blob/master/Unpacking.py)
+4.[异常处理Exception](https://github.com/Sanduoo/LearnPython/blob/master/Error_Exception.py)
+5.[文件操作FileOperator](https://github.com/Sanduoo/LearnPython/blob/master/FileOperator.py)
+6.[类Class、构造函数Constructor、类函数ClassFunction、继承inheritance](https://github.com/Sanduoo/LearnPython/blob/master/Class.py)
+7.[模块Module1](https://github.com/Sanduoo/LearnPython/blob/master/module.py)
+8.[模块Module2](https://github.com/Sanduoo/LearnPython/blob/master/module2.py)
+9.[包Package](https://github.com/Sanduoo/LearnPython/blob/master/packages.py)
