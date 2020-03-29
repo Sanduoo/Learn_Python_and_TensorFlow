@@ -4,7 +4,7 @@
 会包含基本类型、常见的一些操作  
 目的是为了重新熟练起来Pyhton的操作  
 细细想来距离上一次写Python，已经有一段日子了  
-****
+
 ### list和tuple的关系  
 #### 相同点：  
 都是序列都可以存储任何数据类型 可以通过索引访问  
@@ -29,27 +29,27 @@ Python将低开销的较大的块分配给元组，因为它们是不可变的�
   
 ### 一个“可变”的元组  
   
-<h1>#如何创建一个“可变”的元组
-t = ('a','b','c',['A','B','C'])         #此时元组只有四个元素
+<h1>如何创建一个“可变”的元组
+t = ('a','b','c',['A','B','C'])         此时元组只有四个元素
 print(t)
 t[3][0] = 'X'
 t[3][1] = 'Y'
 t[3][2] = 'Z'
 print(t)
 
-"""
+
 为何此时元组会改变？
 其实元组不变指的是元组元素指向不变，
 所以t中的第四个元素为list时，
 我们改变的是list中的元素，而不是元组中元素的指向
 且元组中元素的指向并不变
-"""</h1>
-****
+</h1>
+
 # 目录  
-****
+
 ## 基础篇  
 可以作为Python的入门  
-****  
+
 1.[变量与数据类型VariableAndDatetype](https://github.com/Sanduoo/LearnPython/tree/master/variable)  
 2.[函数Function](https://github.com/Sanduoo/LearnPython/tree/master/def)  
 3.[解包Unpacking](https://github.com/Sanduoo/LearnPython/blob/master/Unpacking.py)  
