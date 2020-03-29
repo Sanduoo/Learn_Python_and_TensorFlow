@@ -8,6 +8,7 @@ class Student:
 sanduo = Student()
 sanduo.name = "SanDuo"
 #print(sanduo.name)
+
 """
 my_name = "sanduo"
 name_list = ["yiduo","erduo","sanduo"]
