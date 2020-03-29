@@ -1,3 +1,4 @@
+
 def life_work():
     print("happy work")
 

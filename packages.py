@@ -1,6 +1,6 @@
 #包 package
-
 #以life为例
+
 import life.work,life.sleep
 
 life.sleep.life_sleep()
