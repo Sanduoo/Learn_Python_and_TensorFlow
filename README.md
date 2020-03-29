@@ -22,5 +22,6 @@ list和tuple的关系
 如果可能，能用tuple代替list就尽量用tuple。  
 tuple的陷阱：当你定义一个tuple时，在定义的时候，tuple的元素就必须被确定下来  
   
-
+![Image text](https://github.com/Sanduoo/LearnPython/blob/master/variable/tuple.jpg)  
+****
 
