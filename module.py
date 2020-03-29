@@ -1,4 +1,5 @@
 #模块 module
+
 import Class            #现在目录查找，未找到则去PYTHONPATH环境变量查找
 import sys
 from Class import Friend
