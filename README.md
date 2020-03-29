@@ -26,4 +26,8 @@ tuple的陷阱：当你定义一个tuple时，在定义的时候，tuple的元�
 例图  
 ![Image text](https://github.com/Sanduoo/LearnPython/blob/master/variable/tuple.jpg)  
 ****
+目录  
+****  
+1.[常用数据类型](https://github.com/Sanduoo/LearnPython/tree/master/variable)  
+2.[函数](https://github.com/Sanduoo/LearnPython/tree/master/def)
 
