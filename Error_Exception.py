@@ -4,6 +4,7 @@
 def iTest_Fails(num):
     return  1/num
 
+
 try:
     iNum = int(input("please input number:"))
     Num = iTest_Fails(iNum)
