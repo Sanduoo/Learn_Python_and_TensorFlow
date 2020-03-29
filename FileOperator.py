@@ -21,9 +21,7 @@ a_file = open("a.txt","a")      #追加
 w_file = open("a.txt","w")
 w_file.write("siduo")
 """
+
 w_file = open("b.txt","w")
-
-
-
 
 w_file.close()
