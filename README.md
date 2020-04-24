@@ -67,8 +67,8 @@ print(t)
 ## TensorFlow篇   
   
 1.[张量Tensor、计算图Graph、会话Session](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.1_Tensor_Graph_Session.ipynb)  
-2.[前向传播]()  
-3.[反向传播]()  
+2.[前向传播](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.2_%E5%89%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)  
+3.[反向传播](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.3%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)  
 4.[损失函数]()  
 5.[学习率]()  
 6.[滑动平均]()  
