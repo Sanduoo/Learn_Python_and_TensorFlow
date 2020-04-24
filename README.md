@@ -60,3 +60,11 @@ print(t)
 8.[模块Module2](https://github.com/Sanduoo/LearnPython/blob/master/module2.py)  
 9.[包Package](https://github.com/Sanduoo/LearnPython/blob/master/packages.py)  
 ****
+## Tensorflow篇   
+  
+1.[张量Tensor、计算图Graph、会话Session]()  
+2.[前向传播]()  
+3.[反向传播]()  
+4.[损失函数]()  
+5.[学习率]()  
+6.[滑动平均]()  
