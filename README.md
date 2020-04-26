@@ -66,7 +66,7 @@ print(t)
 配合[【北京大学】Tensorflow学习笔记，从零基础入门到项目实战分享学习教程](https://www.bilibili.com/video/BV1GE411k7Q2)使用
 ## TensorFlow篇   
   
-1.[张量Tensor、计算图Graph、会话Session](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.1_Tensor_Graph_Session.ipynb)  
+1.[张量Tensor和常用函数](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.1_Tensor_Graph_Session.ipynb)  
 2.[前向传播](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.2_%E5%89%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)  
 3.[反向传播](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.3%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD.ipynb)  
 4.[损失函数](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.4%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.ipynb)  
