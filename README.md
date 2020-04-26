@@ -63,7 +63,7 @@ print(t)
   
 环境：Anaconda、TensorFlow2.1  
 编辑器：Jupyter Notebook  
-配合[【北京大学】Tensorflow学习笔记，从零基础入门到项目实战分享学习教程](https://www.bilibili.com/video/BV1GE411k7Q2)使用
+配合[【北京大学】Tensorflow学习笔记](https://www.icourse163.org/course/PKU-1002536002)使用
 ## TensorFlow篇   
   
 1.[张量Tensor和常用函数](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.1_Tensor_Graph_Session.ipynb)  
