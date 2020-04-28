@@ -61,13 +61,20 @@ print(t)
 9.[包Package](https://github.com/Sanduoo/LearnPython/blob/master/packages.py)  
 ****
   
+
+## TensorFlow篇   
+
 环境：Anaconda、TensorFlow2.1  
 编辑器：Jupyter Notebook  
 配合[【北京大学】Tensorflow学习笔记](https://www.icourse163.org/course/PKU-1002536002)使用
-## TensorFlow篇   
   
+##### 第一篇
 1.[张量Tensor和常用函数](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.1_%E5%BC%A0%E9%87%8FTensor%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.ipynb)  
 2.[神经网络实现鸢尾花分类](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.2_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E9%B8%A2%E5%B0%BE%E8%8A%B1%E5%88%86%E7%B1%BB.ipynb)  
 3.[复杂度、学习率、激活函数、损失函数](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.3_%E5%A4%8D%E6%9D%82%E5%BA%A6%E3%80%81%E5%AD%A6%E4%B9%A0%E7%8E%87%E3%80%81%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E3%80%81%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.ipynb)  
 4.[缓解过拟合](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.4_%E7%BC%93%E8%A7%A3%E8%BF%87%E6%8B%9F%E5%90%88.ipynb)  
 5.[优化器](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/1.5_%E4%BC%98%E5%8C%96%E5%99%A8.ipynb)  
+##### 第二篇
+1.[搭建神经网络八股](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/2.1_%E6%90%AD%E5%BB%BA%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%AB%E8%82%A1.ipynb)  
+2.[MNIST数据集](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/2.2_MNIST%E6%95%B0%E6%8D%AE%E9%9B%86.ipynb)  
+3.[FASHION数据集](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/2.3_FASHION%E6%95%B0%E6%8D%AE%E9%9B%86.ipynb)  
