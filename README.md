@@ -86,3 +86,5 @@ print(t)
 5.[acc&loss可视化](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/3.5_acc%26loss%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)  
 6.[给图识物](https://github.com/Sanduoo/LearnPython/blob/master/TensoFlow%E7%AF%87/3.6_%E7%BB%99%E5%9B%BE%E8%AF%86%E7%89%A9.ipynb)  
 ##### 第四篇 卷积神经网络
+1.[卷积计算过程、感受野、全零填充](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/4.1_%E5%8D%B7%E7%A7%AF%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B%E3%80%81%E6%84%9F%E5%8F%97%E9%87%8E%E3%80%81%E5%85%A8%E9%9B%B6%E5%A1%AB%E5%85%85.ipynb) 
+2.[卷积神经网络CBAPD](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/4.2_%E5%8D%B7%E7%A7%AF%E5%B1%82%E3%80%81BN%E5%B1%82-%E6%89%B9%E6%A0%87%E5%87%86%E5%8C%96%E3%80%81%E6%B1%A0%E5%8C%96%E5%B1%82%E3%80%81%E8%88%8D%E5%BC%83%E5%B1%82_%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb) 
