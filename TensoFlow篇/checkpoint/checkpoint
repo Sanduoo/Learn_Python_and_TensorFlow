@@ -1,2 +1,2 @@
-model_checkpoint_path: "fashion.ckpt"
-all_model_checkpoint_paths: "fashion.ckpt"
+model_checkpoint_path: "Baseline.ckpt"
+all_model_checkpoint_paths: "Baseline.ckpt"
