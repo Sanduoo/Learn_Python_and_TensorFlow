@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+checkpoint/
 *.py[cod]
 *$py.class
 
