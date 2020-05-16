@@ -98,6 +98,9 @@ print(t)
 10. [经典卷积神经网络小结](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/4.10_%E7%BB%8F%E5%85%B8%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%BB%93.ipynb) 
 ##### 第五篇 循环神经网络
 1. [循环核、循环层](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.1_%E5%BE%AA%E7%8E%AF%E6%A0%B8%E3%80%81%E5%BE%AA%E7%8E%AF%E5%B1%82.ipynb)  
-2. [循环计算过程-字母预测 onehot_1pre1]()  
-3. [循环计算过程-字母预测 onehot_4pre1]()  
-4. [Embedding编码]()  
+2. [循环计算过程-字母预测](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.2_%E5%BE%AA%E7%8E%AF%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B(%E5%AD%97%E6%AF%8D%E9%A2%84%E6%B5%8B).ipynb)  
+3. [Embedding](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.3_Embedding.ipynb)  
+4. [RNN实现股票预测](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.4_RNN%E5%AE%9E%E7%8E%B0%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B.ipynb)  
+5. [LSTM实现股票预测](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.5_LSTM.ipynb)  
+6. [GRU实现股票预测](https://github.com/Sanduoo/Learn_Python_and_TensorFlow/blob/master/TensoFlow%E7%AF%87/5.6_GRU.ipynb)  
+
