@@ -1,2 +1,2 @@
-model_checkpoint_path: "run_embedding_1pre1.ckpt"
-all_model_checkpoint_paths: "run_embedding_1pre1.ckpt"
+model_checkpoint_path: "rnn_embedding_4pre1.ckpt"
+all_model_checkpoint_paths: "rnn_embedding_4pre1.ckpt"
